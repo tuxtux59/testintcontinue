@@ -1,0 +1,1 @@
+Projet test d'intégration continue utilisant la solution TRAVIS
